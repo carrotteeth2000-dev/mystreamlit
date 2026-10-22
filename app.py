@@ -12,4 +12,4 @@ header {
 
 st.title("나의 첫 Streamlit 배포")
 st.write("Hello Streamlit!")
-st.write("Hello Streamlit!........")
+st.write("test.test.test.test.test.")
